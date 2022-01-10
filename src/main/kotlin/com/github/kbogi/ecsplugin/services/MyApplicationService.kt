@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.kbogi.ecsplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.kbogi.ecsplugin.MyBundle
 
 class MyApplicationService {
 
